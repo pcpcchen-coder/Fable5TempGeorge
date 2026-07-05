@@ -68,7 +68,7 @@ claude-harness-universal/
 
 ### context 預算有限時的裁剪順序
 
-各文件規模(約):PLANNING 480 行、DECISION_PROTOCOL 300 行、GENERAL_RUBRIC 300 行、ANTIPATTERNS 全文 600 行(單一原型節約 100 行)、EXEMPLAR 360-540 行、CRITIQUE 140-260 行。
+各文件規模(約):PLANNING 480 行、DECISION_PROTOCOL 300 行、GENERAL_RUBRIC 300 行、ANTIPATTERNS 全文 600 行(單一原型節約 100 行)、EXEMPLAR 360-540 行、CRITIQUE 110-170 行。
 
 由後往前砍(砍到放得下為止):
 

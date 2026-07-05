@@ -49,7 +49,7 @@
 | 軟體實作(`software-implementation.md`) | 時間長度字串解析器 | CSV 使用者批次匯入器 | 為既有客戶端加上重試與批次查詢 |
 | 系統設計(`system-design.md`) | SD-E1 API 速率限制元件 | SD-E2 為既有單體 CRM 加全文搜尋 | SD-E3 內部簽核系統「雲原生升級」 |
 | 研究分析(`research-analysis.md`) | RA-E1 四天工作週證據綜合 | RA-E2 AI 程式碼助理導入評估 | RA-E3 董事會前的「雲端大回遷」備忘錄 |
-| 技術寫作(`technical-writing.md`) | EV-TW-01 虛構 CLI 工具快速上手指南 | EV-TW-02 混亂內部筆記改寫成值班 Runbook | EV-TW-03 更新設定參考文件 |
+| 技術寫作(`technical-writing.md`) | EV-TW-01 虛構 CLI 工具的快速上手指南 | EV-TW-02 把混亂內部筆記改寫成值班 Runbook | EV-TW-03 更新設定參考文件 |
 | 除錯排錯(`debugging.md`) | DB-E1 CSV 報表腳本 TypeError | DB-E2 只在 CI 出現的間歇性測試失敗 | DB-E3 「測試太嚴」的金額測試 |
 | 資料分析(`data-analysis.md`) | DA-E1 客服處理時間的典型值 | DA-E2 併購後的合併營收成長率 | DA-E3 訓練營成效的董事會簡報 |
 
